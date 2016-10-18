@@ -1,0 +1,8 @@
+body{width:488px; margin: 0 auto; font: 14px/1.5 Helvetica, Arial, sans-serif;}
+nav h2{display:none;}
+li{display:inline; margin-right:1em;}
+a{text-decoration:none; color:#285C9C;}
+header,nav, div{border-bottom:2px #8BB54D solid;}
+div:after{content:"";display:block;clear:both;margin-bottom:1em;}
+img#lapin{float:left; margin-right:1em;}
+footer{clear:left; text-align:center;margin-top:1em;}

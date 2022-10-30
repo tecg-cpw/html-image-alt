@@ -14,4 +14,4 @@
 
 Complétez le fichier `index.html` avec les bonnes balises afin d'arriver au résultat suivant :
 
-![Résultat attendu](./rendu.png)
+![Résultat attendu](./assets-starter/rendu.png)
